@@ -1,0 +1,9 @@
+.characterImg {
+  width: 400px;
+}
+
+.charactersDiv {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid gray;
+}
